@@ -39,7 +39,7 @@ export default function ContactUs() {
                 Get In Touch
               </h2>
               <p className="leading-relaxed mb-5 pl-5">
-                Interested in working toghether? Feel free to reach out with the form below, I'll get back to you as soon as possible!
+                Interested in working together? Feel free to reach out with the form below, I'll get back to you as soon as possible!
               </p>
               <div className="relative mb-4">
                 <label htmlFor="name" className="leading-7 text-sm text-gray-400">
